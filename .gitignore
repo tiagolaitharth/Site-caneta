@@ -1,0 +1,14 @@
+# Arquivos locais e temporários
+debug.log
+*.tmp
+
+# Referências de criação (preservadas localmente, fora do deploy)
+animations-gemini/
+animations-gemini2/
+designs/
+digital-architect.aura.build/
+design_system.html
+
+# Mídia anterior não utilizada pelo site publicado
+video.mp4
+
